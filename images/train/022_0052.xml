@@ -1,0 +1,26 @@
+<annotation>
+	<folder>buddha</folder>
+	<filename>022_0052.jpg</filename>
+	<path>C:\Users\manje_000\Desktop\Assignment\model2\256_ObjectCategories\train\buddha\022_0052.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>228</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buddha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>6</ymin>
+			<xmax>207</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>
